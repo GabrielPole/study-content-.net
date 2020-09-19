@@ -1,0 +1,13 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\bin\Debug\netcoreapp3.1\07-ByteBank Construtores.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\bin\Debug\netcoreapp3.1\07-ByteBank Construtores.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\bin\Debug\netcoreapp3.1\07-ByteBank Construtores.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\bin\Debug\netcoreapp3.1\07-ByteBank Construtores.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\bin\Debug\netcoreapp3.1\07-ByteBank Construtores.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\bin\Debug\netcoreapp3.1\07-ByteBank Construtores.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\07-ByteBank Construtores\obj\Debug\netcoreapp3.1\07-ByteBank Construtores.genruntimeconfig.cache

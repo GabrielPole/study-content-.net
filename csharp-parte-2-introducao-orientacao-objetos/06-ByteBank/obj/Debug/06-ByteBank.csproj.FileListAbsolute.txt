@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\bin\Debug\06-ByteBank.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\bin\Debug\06-ByteBank.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\bin\Debug\06-ByteBank.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\obj\Debug\06-ByteBank.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\obj\Debug\06-ByteBank.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\GitHub\study-content-.net\csharp-parte-2-introducao-orientacao-objetos\06-ByteBank\obj\Debug\06-ByteBank.pdb
